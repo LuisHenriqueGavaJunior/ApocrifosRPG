@@ -18,14 +18,14 @@ import Racas from './pages/Banco/Racas/Racas';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-        <BrowserRouter>
+    <BrowserRouter basename='/apocrifosrpg'>
 
      <Header/>
      <Routes>
 
       {/* Geral */}
 
-     <Route path="/apocrifosrpg" element= {<Home/>} />
+     <Route path="/" element= {<Home/>} />
      <Route path="/sobre" element= {<Sobre/>} />
 
       {/* Menu dropdown Bacno */}
