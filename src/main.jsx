@@ -25,7 +25,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
       {/* Geral */}
 
-     <Route path="/" element= {<Home/>} />
+     <Route path="/apocrifosrpg/" element= {<Home/>} />
      <Route path="/sobre" element= {<Sobre/>} />
 
       {/* Menu dropdown Bacno */}
