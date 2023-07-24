@@ -1,0 +1,16 @@
+.Sobre{
+    align-items: center;
+    text-align: center;
+}
+
+.SobreTitle{
+  font-size: 7vh;
+  color: #860309;
+}
+
+.SobreText{
+    font-size: 3vh;
+    max-width: 170vh;
+    margin-left: 15.5vh;
+    text-align: left;
+}
