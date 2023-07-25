@@ -5,7 +5,7 @@ function Tecnico() {
     <div className="Tecnico">
       <a className='Linkcomsublinhado' href = "https://ordempendragon.files.wordpress.com/2017/04/dd-5e-livro-do-jogador-fundo-branco-biblioteca-c3a9lfica.pdf" target="_blank" >Livro do Jogador</a>
       
-      <p/><a className='Linkcomsublinhado' href = "https://drive.google.com/file/d/1YcpCyReAyY1NJYvIX4uqA780FTteblhP/view" target="_blank" >Ficha</a>
+      <p/><a className='Linkcomsublinhado' href = "https://drive.google.com/file/d/1QUhca53oKve40nrDKHGW8LOXedVf0Efw/view?usp=sharing" target="_blank" >Ficha</a>
 
       <h5>Atributos iniciais: 15, 14, 13, 12, 10 e 8 </h5>
 
@@ -13,27 +13,27 @@ function Tecnico() {
 
       <div><img src='https://i.imgur.com/0q4uhnt.png'/></div>
 
-      <h6>Perícias extras da ficha:
-Analisar terreno (CD 20): Como uma ação de movimento, você pode observar o campo de batalha. Se passar, descobre uma vantagem, como cobertura, camuflagem ou terreno elevado, se houver.
+     <section className='Periciasesan'>
+      <h4 className='Periciastitulo'>Perícias extras da ficha:</h4>
 
-Acalmar (CD 15): Como uma ação, você pode dialogar ou fazer gestos para acalmar alguém que esteja sobre efeito de algum debuff causado por um fracasso em um teste de sanidade (como ansiedade, por exemplo)
+      <h6 className='Pericias'>Acalmar (CD 15):</h6> <p><h6 className='Tecnicodesc'>Como uma ação, você pode dialogar ou fazer gestos para acalmar alguém que esteja sobre efeito de algum debuff causado por um fracasso em um teste de sanidade (como ansiedade, por exemplo)</h6></p>
 
-Sorte: Imprevisibilidade extra sempre é bem-vinda.
+      <p/><h6 className='Pericias'>Sorte:</h6> <h6 className='Tecnicodesc'> Imprevisibilidade extra sempre é bem-vinda.</h6>
 
-Vontade: Você usa Vontade para resistir a efeitos mentais, como encantamentos e ilusões. A CD é determinada pelo efeito.
+      <p/><h6 className='Pericias'>Vontade:</h6> <h6 className='Tecnicodesc'> Você usa Vontade para resistir a efeitos mentais, como encantamentos e ilusões. A CD é determinada pelo efeito.</h6>
 
-Sanidade: 
-O que é: Cada personagem começa com uma quantidade de Sanidade igual ao resultado do seguinte cálculo: Modificador de Sabedoria X Nível Total X 6. Por exemplo, um personagem de 3º nível com modificador de Sabedoria +3 começaria com 54 Pontos de Sanidade (3 x 3 x 6).
+      <h4 className='Sanidadetitulo'>Sanidade: </h4>
+      <h6>O que é: Cada personagem começa com uma quantidade de Sanidade igual ao resultado do seguinte cálculo: Modificador de Sabedoria X Nível Total X 6. Por exemplo, um personagem de 3º nível com modificador de Sabedoria +3 começaria com 54 Pontos de Sanidade (3 x 3 x 6).</h6>
+      
+      <h5 className='Sanidadetitulo'>Como funciona no sistema: </h5>
 
-Como funciona no sistema: 
-Ansiedade (novo local ou indivíduo que causa medo): O personagem pode ficar inquieto, nervoso e desconfiado. Ele pode receber uma penalidade de -1 em testes de Sabedoria, Carisma ou Percepção.
-Sempre perderá apenas 1 ponto de sanidade.
+      <h6 className='Sanidade'>-Ansiedade (novo local ou indivíduo que causa medo):</h6> <h6 className='Tecnicodesc'>O personagem pode ficar inquieto, nervoso e desconfiado. Ele pode receber uma penalidade de -1 em testes de Sabedoria, Carisma ou Percepção.
+      Sempre perderá apenas 1 ponto de sanidade.</h6>
 
-Amedrontado (combate): caso seja no início do combate, o indivíduo será o último a agir e receberá uma penalidade de -2 em testes de Sabedoria, Carisma ou Percepção. Caso o combate já tenha sido iniciado, o indivíduo perderá sua próxima rodada e também receberá uma penalidade de -2 em testes de Sabedoria, Carisma ou Percepção.
+      <h6 className='Sanidade'>-Amedrontado (combate):</h6> <h6 className='Tecnicodesc'>caso seja no início do combate, o indivíduo será o último a agir e receberá uma penalidade de -2 em testes de Sabedoria, Carisma ou Percepção. Caso o combate já tenha sido iniciado, o indivíduo perderá sua próxima rodada e também receberá uma penalidade de -2 em testes de Sabedoria, Carisma ou Percepção.</h6>
 
-Fobia (aleatório): Caso o indivíduo perca 1/4 da sua sanidade em um único teste, o personagem desenvolve uma fobia específica relacionada ao evento aterrorizante. Ele pode ter desvantagens em testes e jogadas envolvendo sua fobia.
- </h6>
-
+      <h6 className='Sanidade'>-Fobia (aleatório):</h6> <h6 className='Tecnicodesc'> Caso o indivíduo perca 1/4 da sua sanidade em um único teste, o personagem desenvolve uma fobia específica relacionada ao evento aterrorizante. Ele pode ter desvantagens em testes e jogadas envolvendo sua fobia.</h6>
+     </section>
     </div>
   );
 }

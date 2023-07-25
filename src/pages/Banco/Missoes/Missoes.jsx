@@ -3,7 +3,7 @@ import './Missoes.css'
 function Missoes() {
   return (
     <div className="Missoes">
-      <h1>Missões</h1>
+      <h1 className="embreve">Em breve</h1>
     </div>
   );
 }

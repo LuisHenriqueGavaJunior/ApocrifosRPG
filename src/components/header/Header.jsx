@@ -15,7 +15,7 @@ function Header(){
           <nav>
            <Link to="/missoes">Missões</Link>
            <Link to="/racas">Raças</Link>
-           <Link to="/locais">Locais</Link>
+           <Link to="/locais">Mundo</Link>
            <Link to="/personagens">Personagens</Link>
            <Link to="/conceitos">Conceitos</Link>
           </nav>

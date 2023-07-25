@@ -1,7 +1,7 @@
 function Artes() {
   return (
     <div className="Artes">
-      <h1>Artes</h1>
+      <h1 className="embreve">Em breve</h1>
     </div>
   );
 }

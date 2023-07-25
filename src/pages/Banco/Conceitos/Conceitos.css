@@ -1,0 +1,21 @@
+.Conceitos{
+    text-align: center;
+    margin-left: 14vh;
+}
+
+.Conceitotitulos{
+    text-align: center;
+    font-size: 6vh;
+    width: 170vh;
+    color: #bb1f1f;
+}
+
+.ConteudoConceitos{
+    line-height: 4vh;
+    width: 170vh;
+    font-size: 3vh;
+}
+
+.Cuidado{
+    color: #bb1f1f;
+}

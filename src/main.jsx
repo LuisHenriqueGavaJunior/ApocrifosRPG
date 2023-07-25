@@ -19,7 +19,6 @@ import Racas from './pages/Banco/Racas/Racas';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter basename='/apocrifosrpg'>
-
      <Header/>
      <Routes>
 

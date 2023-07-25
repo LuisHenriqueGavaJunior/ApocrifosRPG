@@ -1,0 +1,20 @@
+.Locais{
+    text-align: center;
+    margin-left: 14vh;
+}
+
+.LocaisTitulo{
+    text-align: center;
+    font-size: 6vh;
+    width: 170vh;
+}
+
+.ConteudoLocais{
+    line-height: 4vh;
+    width: 170vh;
+    font-size: 3vh;
+}
+
+.Mundotitulos{
+    margin-top: 13vh;
+}

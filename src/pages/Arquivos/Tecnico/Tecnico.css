@@ -4,3 +4,25 @@
     font-size: 5vh;
 }
 
+.Pericias{
+    color: #00FF00;
+    margin-bottom: -6vh;
+}
+
+.Periciastitulo{
+    color: #00FF00;
+}
+
+.Sanidade{
+    color: #ff00ae;
+    margin-bottom: -6vh;
+}
+
+.Sanidadetitulo{
+    color: #ff00ae;
+}
+
+.Periciasesan{
+    width: 140vh;
+    margin-left: 30vh;
+}
