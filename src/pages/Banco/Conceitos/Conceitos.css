@@ -3,7 +3,7 @@
     margin-left: 14vh;
 }
 
-.Conceitotitulos{
+.Conceitosvida{
     text-align: center;
     font-size: 6vh;
     width: 170vh;
@@ -18,4 +18,24 @@
 
 .Cuidado{
     color: #bb1f1f;
+}
+
+.Conceitosespiritos{
+    text-align: center;
+    font-size: 6vh;
+    width: 170vh;
+    color: #4A86E8;
+    margin-top: 15vh;
+}
+
+.espacoconceitos{
+    margin-top: 8vh;
+}
+
+.Conceitocontratos{
+    text-align: center;
+    font-size: 6vh;
+    width: 170vh;
+    color: #FFFF00;
+    margin-top: 15vh;
 }
