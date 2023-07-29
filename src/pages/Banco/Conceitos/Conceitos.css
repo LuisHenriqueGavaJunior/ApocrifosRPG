@@ -28,7 +28,11 @@
     margin-top: 15vh;
 }
 
-.espacoconceitos{
+.Conceitoespiritossubtitulos{
+    text-align: center;
+    font-size: 4vh;
+    width: 170vh;
+    color: #4A86E8;
     margin-top: 8vh;
 }
 
@@ -38,4 +42,12 @@
     width: 170vh;
     color: #FFFF00;
     margin-top: 15vh;
+}
+
+.Conceitocontratossubtitulos{
+    text-align: center;
+    font-size: 4vh;
+    width: 170vh;
+    color: #FFFF00;
+    margin-top: 8vh;  
 }
