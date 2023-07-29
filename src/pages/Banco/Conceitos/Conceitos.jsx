@@ -45,7 +45,7 @@ function Conceitos() {
         <h3 className='Conceitocontratossubtitulos'>Exemplo de Contrato 2:</h3> Um espírito de fogo realiza um Contrato com um humano, onde nele o humano terá acesso a mana e algumas magias concedidas pelo espírito, em troca, o humano deverá tocar flauta para o espírito toda noite antes de dormir. Ambos firmaram que, em caso de descumprimento, nada aconteceria a nenhuma das partes.
       
         <h3 className='Conceitocontratossubtitulos'>Contrato de Sangue:</h3>
-        <p/>Contratos realizados entre indivíduos que se estendem por gerações. Contrato de Sangue podem ser quebrados desde que o indivíduo seja do mesmo sangue de quem firmou o Pacto e que o mesmo já esteja morto.
+        <p/>Contratos realizados entre indivíduos que se estendem por gerações. Contratos de Sangue podem ser quebrados desde que o indivíduo seja do mesmo sangue de quem firmou o acordo e que o mesmo já esteja morto.
 
         <p/>Exemplo de Contrato de Sangue: Um espírito maior realiza um Contrato de Sangue com um rei, onde nele o espírito maior protegerá as terras do rei enquanto sua família estiver no trono, e em troca, a família do rei deve conceder um banquete todo mês ao espírito. 
         Ambos firmaram que, em caso de descumprimento por parte do espírito, o mesmo morrerá, e, em caso de descumprimento por parte da família do rei, o espírito irá assassinar todos os membros da linhagem.
