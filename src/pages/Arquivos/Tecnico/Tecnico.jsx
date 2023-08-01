@@ -23,7 +23,7 @@ function Tecnico() {
       <p/><h6 className='Pericias'>Vontade:</h6> <h6 className='Tecnicodesc'> Você usa Vontade para resistir a efeitos mentais, como encantamentos e ilusões. A CD é determinada pelo efeito.</h6>
 
       <h4 className='Sanidadetitulo'>Sanidade: </h4>
-      <h6>O que é: Cada personagem começa com uma quantidade de Sanidade igual ao resultado do seguinte cálculo: Modificador de Sabedoria X Nível Total X 6. Por exemplo, um personagem de 3º nível com modificador de Sabedoria +3 começaria com 54 Pontos de Sanidade (3 x 3 x 6).</h6>
+      <h6>Quanto de Sanidade cada um começa: Cada personagem começa com uma quantidade de Sanidade igual ao resultado da rolagem de 10d10. O player poderá tentar novamente o número de vezes de seu modificador de sabedoria. Por exemplo, caso o player tenha +3 de sabedoria ele poderá realizar a rolagem mais 3 vezes, e ficar com o melhor resultado.</h6>
       
       <h5 className='Sanidadetitulo'>Como funciona no sistema: </h5>
 
