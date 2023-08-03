@@ -5,7 +5,7 @@ function Tecnico() {
     <div className="Tecnico">
       <a className='Linkcomsublinhado' href = "https://ordempendragon.files.wordpress.com/2017/04/dd-5e-livro-do-jogador-fundo-branco-biblioteca-c3a9lfica.pdf" target="_blank" >Livro do Jogador</a>
       
-      <p/><a className='Linkcomsublinhado' href = "https://drive.google.com/file/d/1QUhca53oKve40nrDKHGW8LOXedVf0Efw/view?usp=sharing" target="_blank" >Ficha</a>
+      <p/><a className='Linkcomsublinhado' href = "https://drive.google.com/file/d/1nY1fU95iCCjAX5HVNBLAF12pMTL4Zd-u/view?usp=sharing" target="_blank" >Ficha</a>
 
       <h5>Atributos iniciais: 15, 14, 13, 12, 10 e 8 </h5>
 
